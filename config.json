@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfonnect",
+        "uuid": 4121260,
+        "checksum": "avp0wh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
